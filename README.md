@@ -5,5 +5,7 @@ Di EDA ini , kami menyeleksi startup yang akan dibina berdasarkan sub-sektor sta
 Data berikut kami ambil dari https://www.kaggle.com/arindam235/startup-investments-crunchbase?select=investments_VC.csv
 Kami memfokuskan EDA di negara US saja dan menemukan hasil yang cukup menarik.
 
-untuk melakukan EDA yang benar, kita harus melewati beberapa langkah terlebih dahulu, salah satunya adalah missing value, hal ini merupakan langkah yg penting untuk menentukan tingkat akurasi data. 
-kemudian barulah kita melakukan analisis data, dan visualisasi data tersebut agar mudah untuk dipahami dan dibaca.
+Untuk melakukan EDA yang benar, kita harus melewati beberapa langkah terlebih dahulu, 
+1. Missing value, hal ini merupakan langkah yg penting untuk menentukan tingkat akurasi data. 
+2. Analisis data, disini kita dapat membaca potensi bisnis yang bisa didapatkan seperti : potensi maksimal dari perusahaan, efisiensi ,dll 
+3. Visualisasi data tersebut agar mudah untuk dipahami dan dibaca.
