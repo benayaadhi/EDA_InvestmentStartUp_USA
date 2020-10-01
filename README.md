@@ -9,3 +9,8 @@ Untuk melakukan EDA yang benar, kita harus melewati beberapa langkah terlebih da
 1. Missing value, hal ini merupakan langkah yg penting untuk menentukan tingkat akurasi data. 
 2. Analisis data, disini kita dapat membaca potensi bisnis yang bisa didapatkan seperti : potensi maksimal dari perusahaan, efisiensi ,dll 
 3. Visualisasi data tersebut agar mudah untuk dipahami dan dibaca.
+
+Dari data tersebut, bisa kita simpulkan 3 hal :
+1. Bioteknologi merupakan sub-kategori dengan pendanaan investor terbanyak
+2. Software merupakan sub-kategori dengan jumlah startup terbanyak
+3. Funding terbanyak terjadi di bulan januari
